@@ -1,0 +1,223 @@
+{
+  "storedData": {
+    "data": {
+      "armNum": 0,
+      "summonNum": 3,
+      "charaNum": 0,
+      "profile": {
+        "rank": 1,
+        "zenithAttackBonus": 3000,
+        "zenithHPBonus": 1000,
+        "zenithPartyHPBonus": 0,
+        "masterBonus": 0,
+        "masterBonusHP": 0,
+        "normalBuff": 0,
+        "elementBuff": 0,
+        "otherBuff": 0,
+        "additionalDamageBuff": 0,
+        "hpBuff": 0,
+        "daBuff": 0,
+        "taBuff": 0,
+        "hp": 100,
+        "remainHP": 100,
+        "zenithBonus1": "無し",
+        "zenithBonus2": "無し",
+        "enemyElement": "fire",
+        "enemyDefense": 10,
+        "job": "none",
+        "element": "fire",
+        "DA": 6.5,
+        "TA": 3,
+        "ougiGageBuff": 0,
+        "ougiRatio": 4.5,
+        "minimumHP": 0,
+        "personalNormalBuff": 0,
+        "personalElementBuff": 0,
+        "personalOtherBuff": 0,
+        "personalAdditionalDamageBuff": 0,
+        "personalDABuff": 0,
+        "personalTABuff": 0,
+        "personalOugiGageBuff": 0
+      },
+      "armlist": [],
+      "chara": [],
+      "summon": [
+        {
+          "selfSummonType": "magna",
+          "selfSummonAmount": 100,
+          "selfSummonAmount2": 0,
+          "selfElement": "fire",
+          "friendSummonType": "element",
+          "friendSummonAmount": 80,
+          "friendSummonAmount2": 0,
+          "friendElement": "fire",
+          "attack": 0,
+          "hp": 0,
+          "hpBonus": 0,
+          "DA": 0,
+          "TA": 0,
+          "criticalRatio": 0
+        },
+        {
+          "selfSummonType": "element",
+          "selfSummonAmount": 80,
+          "selfSummonAmount2": 0,
+          "selfElement": "fire",
+          "friendSummonType": "element",
+          "friendSummonAmount": 80,
+          "friendSummonAmount2": 0,
+          "friendElement": "fire",
+          "attack": 0,
+          "hp": 0,
+          "hpBonus": 0,
+          "DA": 0,
+          "TA": 0,
+          "criticalRatio": 0
+        },
+        {
+          "selfSummonType": "magna",
+          "selfSummonAmount": 100,
+          "selfSummonAmount2": 0,
+          "selfElement": "fire",
+          "friendSummonType": "magna",
+          "friendSummonAmount": 100,
+          "friendSummonAmount2": 0,
+          "friendElement": "fire",
+          "attack": 0,
+          "hp": 0,
+          "hpBonus": 0,
+          "DA": 0,
+          "TA": 0,
+          "criticalRatio": 0
+        }
+      ],
+      "simulator": {
+        "buffs": {
+          "全体バフ": {
+            "0": {
+              "normal": 0,
+              "element": 0,
+              "other": 0,
+              "DA": 0,
+              "TA": 0,
+              "turnType": "normal",
+              "remainHP": 100
+            },
+            "1": {
+              "normal": 0,
+              "element": 0,
+              "other": 0,
+              "DA": 0,
+              "TA": 0,
+              "turnType": "normal",
+              "remainHP": 100
+            },
+            "2": {
+              "normal": 0,
+              "element": 0,
+              "other": 0,
+              "DA": 0,
+              "TA": 0,
+              "turnType": "normal",
+              "remainHP": 100
+            },
+            "3": {
+              "normal": 0,
+              "element": 0,
+              "other": 0,
+              "DA": 0,
+              "TA": 0,
+              "turnType": "normal",
+              "remainHP": 100
+            }
+          },
+          "Djeeta": {
+            "0": {
+              "normal": 0,
+              "element": 0,
+              "other": 0,
+              "DA": 0,
+              "TA": 0,
+              "turnType": "normal",
+              "remainHP": 100
+            },
+            "1": {
+              "normal": 0,
+              "element": 0,
+              "other": 0,
+              "DA": 0,
+              "TA": 0,
+              "turnType": "normal",
+              "remainHP": 100
+            },
+            "2": {
+              "normal": 0,
+              "element": 0,
+              "other": 0,
+              "DA": 0,
+              "TA": 0,
+              "turnType": "normal",
+              "remainHP": 100
+            },
+            "3": {
+              "normal": 0,
+              "element": 0,
+              "other": 0,
+              "DA": 0,
+              "TA": 0,
+              "turnType": "normal",
+              "remainHP": 100
+            }
+          }
+        },
+        "bufflists": {
+          "全体バフ": {
+            "0": [
+              "normal-0"
+            ],
+            "1": [
+              "normal-0"
+            ],
+            "2": [
+              "normal-0"
+            ],
+            "3": [
+              "normal-0"
+            ]
+          },
+          "Djeeta": {
+            "0": [
+              "normal-0"
+            ],
+            "1": [
+              "normal-0"
+            ],
+            "2": [
+              "normal-0"
+            ],
+            "3": [
+              "normal-0"
+            ]
+          }
+        },
+        "maxTurn": 4
+      },
+      "dataName": "data",
+      "sortKey": "averageCyclePerTurn",
+      "noResultUpdate": false,
+      "resultHasChangeButNotUpdated": false,
+      "oldWidth": 944,
+      "rootleftHeight": 100,
+      "rootleftWidth": 25,
+      "rootrightHeight": 100,
+      "rootrightWidth": 75,
+      "openHowTo": false,
+      "openNiteHowTo": false,
+      "openSimulatorHowTo": false,
+      "activeKey": "systemTab",
+      "locale": "ja"
+    }
+  },
+  "dataName": "data",
+  "selectedData": "data"
+}
